@@ -1,7 +1,7 @@
 # CCNA-notes-jwd
 My notes and thoughts working through the CCNA study topics
 
-20%
+##20%
 ## 1.0 Network Fundamentals
 ### 1.1 Explain the role and function of network components
 [1.1.a Routers](1.1a-routers)
@@ -42,44 +42,72 @@ My notes and thoughts working through the CCNA study topics
 
 ### [1.4 Identify interface and cable issues (collisions, errors, mismatch duplex, and/or speed)](1.4-interface-troubleshooting)
 
-1.5 Compare TCP to UDP
-1.6 Configure and verify IPv4 addressing and subnetting
-1.7 Describe the need for private IPv4 addressing
-2021 Cisco Systems, Inc. This document is Cisco Public.
-Page 120%
-1.8 Configure and verify IPv6 addressing and prefix
-1.9 Describe IPv6 address types
-1.9.a Unicast (global, unique local, and link local)
-1.9.b Anycast
-1.9.c Multicast
-1.9.d Modified EUI 64
-1.10 Verify IP parameters for Client OS (Windows, Mac OS, Linux)
-1.11 Describe wireless principles
-1.11.a Nonoverlapping Wi-Fi channels
-1.11.b SSID
-1.11.c RF
-1.11.d Encryption
-1.12 Explain virtualization fundamentals (server virtualization, containers, and VRFs)
-1.13 Describe switching concepts
-1.13.a MAC learning and aging
-1.13.b Frame switching
-1.13.c Frame flooding
-1.13.d MAC address table
-2.0
-2.1 Network Access
-Configure and verify VLANs (normal range) spanning multiple switches
-2.1.a Access ports (data and voice)
-2.1.b Default VLAN
-2.1.c InterVLAN connectivity
-2.2 Configure and verify interswitch connectivity
-2.2.a Trunk ports
-2.2.b 802.1Q
-2.2.c Native VLAN
-2.3 Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP)
-2.4 Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)
-2.5 Interpret basic operations of Rapid PVST+ Spanning Tree Protocol
-2.5.a Root port, root bridge (primary/secondary), and other port names
-2.5.b Port states (forwarding/blocking)
+### [1.5 Compare TCP to UDP](1.5-TCP-UDP)
+
+### [1.6 Configure and verify IPv4 addressing and subnetting](1.6-IPv4-addressing-subnetting)
+
+### [1.7 Describe the need for private IPv4 addressing](1.7-private-IPv4)
+
+### [1.8 Configure and verify IPv6 addressing and prefix](1.8-IPv6-addressing)
+
+### 1.9 Describe IPv6 address types
+
+[1.9.a Unicast (global, unique local, and link local)](1.9a-unicast)
+
+[1.9.b Anycast](1.9b-anycast)
+
+[1.9.c Multicast](1.9c-multicast)
+
+[1.9.d Modified EUI 64](1.9d-modified-EUI)
+
+### [1.10 Verify IP parameters for Client OS (Windows, Mac OS, Linux)](1.10-OS-IP-parameters)
+
+### 1.11 Describe wireless principles
+
+[1.11.a Nonoverlapping Wi-Fi channels}(1.11a-WiFi-channels)
+
+[1.11.b SSID](1.11b-SSID)
+
+[1.11.c RF](1.11c-RF)
+
+[1.11.d Encryption](1.11d-encryption)
+
+### [1.12 Explain virtualization fundamentals (server virtualization, containers, and VRFs)](1.12-virtualization)
+
+### 1.13 Describe switching concepts
+
+[1.13.a MAC learning and aging](1.13a-MAC-learning-and-aging)
+
+[1.13.b Frame switching](1.13b-frame-switching)
+
+[1.13.c Frame flooding](1.13c-frame-flooding)
+
+[1.13.d MAC address table](1.13d-MAC-table)
+
+
+## 2.0 Network Access
+
+### 2.1 Configure and verify VLANs (normal range) spanning multiple switches
+
+[2.1.a Access ports (data and voice)](2.1a-access-ports)
+
+[2.1.b Default VLAN](2.1b-default-VLAN)
+
+[2.1.c InterVLAN connectivity](2.1c-InterVLAN-connectivity)
+
+### 2.2 Configure and verify interswitch connectivity
+
+[2.2.a Trunk ports](2.1a-trunk-ports)
+
+[2.2.b 802.1Q](2.2b-802.1q)
+
+[2.2.c Native VLAN](2.2c-native-VLAN)
+
+### [2.3 Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP)](2.3-layer-2-discovery)
+2.5a
+
+
+, root bridge (primary/secondary), and other port names](2.5a-root-port-2.5.b Port states (forwarding/blocking)
 2.5.c PortFast
 2021 Cisco Systems, Inc. This document is Cisco Public.
 Page 225%
