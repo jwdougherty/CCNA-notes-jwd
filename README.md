@@ -117,28 +117,39 @@ My notes and thoughts working through the CCNA study topics
 
 ### [2.6 Describe Cisco Wireless Architectures and AP modes](2.6-wireless-architectures)
 
-### [2.7 Describe physical infrastructure connections of WLAN components (AP, WLC,
-access/trunk ports, and LAG)](2.7-WLAN-physical-infrastructure)
 
-### [2.8 Describe AP and WLC management access connections (Telnet, SSH, HTTP, HTTPS,
-console, and TACACS+/RADIUS)](2.8-management-access-connections)
+### [2.7 Describe physical infrastructure connections of WLAN components (AP, WLC, access/trunk ports, and LAG)](2.7-WLAN-physical-infrastructure)
 
-2.9 Interpret the wireless LAN GUI configuration for client connectivity, such as WLAN
-creation, security settings, QoS profiles, and advanced settings
-3.0
-3.1 IP Connectivity
-Interpret the components of routing table
-3.1.a Routing protocol code
-3.1.b Prefix
-3.1.c Network mask
-3.1.d Next hop
-3.1.e Administrative distance
-3.1.f Metric
-3.1.g Gateway of last resort
-3.2 Determine how a router makes a forwarding decision by default
-3.2.a Longest prefix match
-3.2.b Administrative distance
-3.2.c Routing protocol metric
+### [2.8 Describe AP and WLC management access connections (Telnet, SSH, HTTP, HTTPS, console, and TACACS+/RADIUS)](2.8-management-access-connections)
+
+### [2.9 Interpret the wireless LAN GUI configuration for client connectivity, such as WLAN creation, security settings, QoS profiles, and advanced settings](2.9-LAN-GUI-config)
+
+
+## 3.0 IP Connectivity 
+### 3.1 Interpret the components of routing table
+
+[3.1.a Routing protocol code](3.1a-routing-protocol-code)
+
+[3.1.b Prefix](3.1b-prefix)
+
+[3.1.c Network mask](3.1c-network-mask)
+
+[3.1.d Next hop](3.1d-next-hop)
+
+[3.1.e Administrative distance](3.1e-administrative-distance)
+
+[3.1.f Metric](3.1f-metric)
+
+[3.1.g Gateway of last resort](3.1g-gateway-of-last-resort)
+
+### 3.2 Determine how a router makes a forwarding decision by default
+
+[3.2.a Longest prefix match](3.2a-longest-prefix-match)
+
+[3.2.b Administrative distance](3.2b-administrative-distance)
+
+[3.2.c Routing protocol metric](3.2c-routing-protocol)
+
 3.3 Configure and verify IPv4 and IPv6 static routing
 3.3.a Default route
 3.3.b Network route
