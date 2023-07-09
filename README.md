@@ -38,8 +38,10 @@ My notes and thoughts working through the CCNA study topics
 
 [1.3.a Single-mode fiber](1.3a-single-mode-fiber), [multimode fiber](1.3a-multimode-fiber), [copper](1.3a-copper)
 
-1.3.b Connections (Ethernet shared media and point-to-point)
-1.4 Identify interface and cable issues (collisions, errors, mismatch duplex, and/or speed)
+[1.3.b Connections (Ethernet shared media and point-to-point)](1.3b-connections)
+
+[1.4 Identify interface and cable issues (collisions, errors, mismatch duplex, and/or speed)](1.4-interface-troubleshooting)
+
 1.5 Compare TCP to UDP
 1.6 Configure and verify IPv4 addressing and subnetting
 1.7 Describe the need for private IPv4 addressing
