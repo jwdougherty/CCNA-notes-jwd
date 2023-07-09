@@ -12,13 +12,13 @@ My notes and thoughts working through the CCNA study topics
 #### 1.1.f Endpoints
 #### 1.1.g Servers
 #### 1.1.h PoE
-1.2 Describe characteristics of network topology architectures
-1.2.a Two-tier
-1.2.b Three-tier
-1.2.c Spine-leaf
-1.2.d WAN
-1.2.e Small office/home office (SOHO)
-1.2.f On-premise and cloud
+### 1.2 Describe characteristics of network topology architectures
+#### 1.2.a Two-tier
+#### 1.2.b Three-tier
+#### 1.2.c Spine-leaf
+#### 1.2.d WAN
+#### 1.2.e Small office/home office (SOHO)
+#### 1.2.f On-premise and cloud
 1.3 Compare physical interface and cabling types
 1.3.a Single-mode fiber, multimode fiber, copper
 1.3.b Connections (Ethernet shared media and point-to-point)
