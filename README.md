@@ -104,19 +104,25 @@ My notes and thoughts working through the CCNA study topics
 [2.2.c Native VLAN](2.2c-native-VLAN)
 
 ### [2.3 Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP)](2.3-layer-2-discovery)
-2.5a
 
+### [2.4 Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)](2.4-EtherChannel)
 
-, root bridge (primary/secondary), and other port names](2.5a-root-port-2.5.b Port states (forwarding/blocking)
-2.5.c PortFast
-2021 Cisco Systems, Inc. This document is Cisco Public.
-Page 225%
-10%
-2.6 Describe Cisco Wireless Architectures and AP modes
-2.7 Describe physical infrastructure connections of WLAN components (AP, WLC,
-access/trunk ports, and LAG)
-2.8 Describe AP and WLC management access connections (Telnet, SSH, HTTP, HTTPS,
-console, and TACACS+/RADIUS)
+### 2.5 Interpret basic operations of Rapid PVST+ Spanning Tree Protocol
+
+[2.5.a Root port, root bridge (primary/secondary), and other port names](2.5a-STP-ports)
+
+[2.5.b Port states (forwarding/blocking)](2.5b-STP-port-states)
+
+[2.5.c PortFast](2.5c-PortFast)
+
+### [2.6 Describe Cisco Wireless Architectures and AP modes](2.6-wireless-architectures)
+
+### [2.7 Describe physical infrastructure connections of WLAN components (AP, WLC,
+access/trunk ports, and LAG)](2.7-WLAN-physical-infrastructure)
+
+### [2.8 Describe AP and WLC management access connections (Telnet, SSH, HTTP, HTTPS,
+console, and TACACS+/RADIUS)](2.8-management-access-connections)
+
 2.9 Interpret the wireless LAN GUI configuration for client connectivity, such as WLAN
 creation, security settings, QoS profiles, and advanced settings
 3.0
