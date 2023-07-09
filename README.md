@@ -6,8 +6,8 @@ My notes and thoughts working through the CCNA study topics
 ### 1.1 Explain the role and function of network components
 [1.1.a Routers](1.1a-routers)
 
-
 [1.1.b Layer 2 and Layer 3 switches](1.1b-switches)
+
 #### 1.1.c Next-generation firewalls and IPS
 #### 1.1.d Access points
 #### 1.1.e Controllers (Cisco DNA Center and WLC)
