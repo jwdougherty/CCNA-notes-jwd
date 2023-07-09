@@ -64,7 +64,7 @@ My notes and thoughts working through the CCNA study topics
 
 ### 1.11 Describe wireless principles
 
-[1.11.a Nonoverlapping Wi-Fi channels}(1.11a-WiFi-channels)
+[1.11.a Nonoverlapping Wi-Fi channels](1.11a-WiFi-channels)
 
 [1.11.b SSID](1.11b-SSID)
 
