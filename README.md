@@ -93,36 +93,36 @@ My notes and thoughts working through the CCNA study topics
 
 
 ## 4.0 IP Services
-#### [4.1 Configure and verify inside source NAT using static and pools
-#### [4.2 Configure and verify NTP operating in a client and server mode
-#### [4.3 Explain the role of DHCP and DNS within the network
-#### [4.4 Explain the function of SNMP in network operations
-#### [4.5 Describe the use of syslog features including facilities and levels
-#### [4.6 Configure and verify DHCP client and relay
-#### [4.7 Explain the forwarding per-hop behavior (PHB) for QoS, such as classification, marking, queuing, congestion, policing, and shaping
-#### [4.8 Configure network devices for remote access using SSH
-#### [4.9 Describe the capabilities and functions of TFTP/FTP in the network
+#### [4.1 Configure and verify inside source NAT using static and pools](4.1-inside-NAT)
+#### [4.2 Configure and verify NTP operating in a client and server mode](4.2-NTP-configuration)
+#### [4.3 Explain the role of DHCP and DNS within the network](4.3-DHCP-DNS)
+#### [4.4 Explain the function of SNMP in network operations](4.4-SNMP)
+#### [4.5 Describe the use of syslog features including facilities and levels](4.5-syslog)
+#### [4.6 Configure and verify DHCP client and relay](4.6-DHCP-client-and-relay)
+#### [4.7 Explain the forwarding per-hop behavior (PHB) for QoS, such as classification, marking, queuing, congestion, policing, and shaping](4.7-QoS)
+#### [4.8 Configure network devices for remote access using SSH](4.8-SSH)
+#### [4.9 Describe the capabilities and functions of TFTP/FTP in the network](4.9-TFTP/FTP)
 
 ## 5.0 Security Fundamentals
-#### [5.1 Define key security concepts (threats, vulnerabilities, exploits, and mitigation techniques)
-#### [5.2 Describe security program elements (user awareness, training, and physical access control)
-#### [5.3 Configure and verify device access control using local passwords
-#### [5.4 Describe security password policies elements, such as management, complexity, and password alternatives (multifactor authentication, certificates, and biometrics)
-#### [5.5 Describe IPsec remote access and site-to-site VPNs
-#### [5.6 Configure and verify access control lists
-#### [5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection, and port security)
-#### [5.8 Compare authentication, authorization, and accounting concepts
-#### [5.9 Describe wireless security protocols (WPA, WPA2, and WPA3)
-#### [5.10 Configure and verify WLAN within the GUI using WPA2 PSK
+#### [5.1 Define key security concepts (threats, vulnerabilities, exploits, and mitigation techniques)](5.1-security-concepts)
+#### [5.2 Describe security program elements (user awareness, training, and physical access control)](5.2-security-program-elements)
+#### [5.3 Configure and verify device access control using local passwords](5.3-device-access-control)
+#### [5.4 Describe security password policies elements, such as management, complexity, and password alternatives (multifactor authentication, certificates, and biometrics)](5.4-security-passwords)
+#### [5.5 Describe IPsec remote access and site-to-site VPNs](5.5-IPsec-remote-access-and VPN)
+#### [5.6 Configure and verify access control lists](5.6-ACLs)
+#### [5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection, and port security)](5.7-Layer-2-security-features)
+#### [5.8 Compare authentication, authorization, and accounting concepts](5.8-AAA)
+#### [5.9 Describe wireless security protocols (WPA, WPA2, and WPA3)](5.9-wireless-security-protocols)
+#### [5.10 Configure and verify WLAN within the GUI using WPA2 PSK](5.10-WLAN-WPA2-PSK)
 
 
 ## 6.0Automation and Programmability
-#### [6.1 Explain how automation impacts network management
-#### [6.2 Compare traditional networks with controller-based networking
+#### [6.1 Explain how automation impacts network management](6.1-network-management-and automation)
+#### [6.2 Compare traditional networks with controller-based networking](6.2-controller-based-networking)
 #### Describe controller-based, software defined architecture (overlay, underlay, and fabric)
 - [6.3.a Separation of control plane and data plane](6.3a-control-plane-data-plane)
 - [6.3.b Northbound and Southbound APIs](6.3b-northbound-southbound-API)
 #### [6.4 Compare traditional campus device management with Cisco DNA Center enabled device management](6.4-campus-device-management)
-#### [6.5 Describe characteristics of REST-based APIs (CRUD, HTTP verbs, and data encoding)
-#### [6.6 Recognize the capabilities of configuration management mechanisms Puppet, Chef, and Ansible
+#### [6.5 Describe characteristics of REST-based APIs (CRUD, HTTP verbs, and data encoding)](6.5-REST-based-API)
+#### [6.6 Recognize the capabilities of configuration management mechanisms Puppet, Chef, and Ansible](6.6-puppet-Chef-Ansible)
 #### [6.7 Recognize components of JSON-encoded data](6.7-JSON)
