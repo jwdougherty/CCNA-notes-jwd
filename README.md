@@ -1,6 +1,8 @@
 # CCNA-notes-jwd
 My notes and thoughts working through the CCNA study topics
 
+
+
 ## 1.0 Network Fundamentals -- 20%
 #### 1.1 Explain the role and function of network components
 - [1.1.a Routers](1.1a-routers)
@@ -45,7 +47,8 @@ My notes and thoughts working through the CCNA study topics
 - [1.13.d MAC address table](1.13d-MAC-table)
 
 
-## 2.0 Network Access
+
+## 2.0 Network Access  -- 20%
 #### 2.1 Configure and verify VLANs (normal range) spanning multiple switches
 - [2.1.a Access ports (data and voice)](2.1a-access-ports)
 - [2.1.b Default VLAN](2.1b-default-VLAN)
@@ -66,7 +69,8 @@ My notes and thoughts working through the CCNA study topics
 #### [2.9 Interpret the wireless LAN GUI configuration for client connectivity, such as WLAN creation, security settings, QoS profiles, and advanced settings](2.9-LAN-GUI-config)
 
 
-## 3.0 IP Connectivity 
+
+## 3.0 IP Connectivity -- 25%
 ### 3.1 Interpret the components of routing table
 - [3.1.a Routing protocol code](3.1a-routing-protocol-code)
 - [3.1.b Prefix](3.1b-prefix)
@@ -92,7 +96,8 @@ My notes and thoughts working through the CCNA study topics
 #### [3.5 Describe the purpose, functions, and concepts of first hop redundancy protocols](3.5-first-hop-reduncancy)
 
 
-## 4.0 IP Services
+
+## 4.0 IP Services  --10%
 #### [4.1 Configure and verify inside source NAT using static and pools](4.1-inside-NAT)
 #### [4.2 Configure and verify NTP operating in a client and server mode](4.2-NTP-configuration)
 #### [4.3 Explain the role of DHCP and DNS within the network](4.3-DHCP-DNS)
@@ -103,13 +108,15 @@ My notes and thoughts working through the CCNA study topics
 #### [4.8 Configure network devices for remote access using SSH](4.8-SSH)
 #### [4.9 Describe the capabilities and functions of TFTP/FTP in the network](4.9-TFTP/FTP)
 
-## 5.0 Security Fundamentals
+
+
+## 5.0 Security Fundamentals  -- 15%
 #### [5.1 Define key security concepts (threats, vulnerabilities, exploits, and mitigation techniques)](5.1-security-concepts)
 #### [5.2 Describe security program elements (user awareness, training, and physical access control)](5.2-security-program-elements)
 #### [5.3 Configure and verify device access control using local passwords](5.3-device-access-control)
 #### [5.4 Describe security password policies elements, such as management, complexity, and password alternatives (multifactor authentication, certificates, and biometrics)](5.4-security-passwords)
 
-#### [5.5 Describe IPsec remote access and site-to-site VPNs](5.5-IPsec-remote-access-and VPN)
+#### [5.5 Describe IPsec remote access and site-to-site VPNs](5.5-IPsec-remote-access-and-VPN)
 
 #### [5.6 Configure and verify access control lists](5.6-ACLs)
 #### [5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection, and port security)](5.7-Layer-2-security-features)
@@ -117,10 +124,10 @@ My notes and thoughts working through the CCNA study topics
 #### [5.9 Describe wireless security protocols (WPA, WPA2, and WPA3)](5.9-wireless-security-protocols)
 #### [5.10 Configure and verify WLAN within the GUI using WPA2 PSK](5.10-WLAN-WPA2-PSK)
 
+ 
 
-## 6.0 Automation and Programmability
-
-#### [6.1 Explain how automation impacts network management](6.1-network-management-and automation)
+## 6.0 Automation and Programmability  -- 10%
+#### [6.1 Explain how automation impacts network management](6.1-network-management-and-automation)
 #### [6.2 Compare traditional networks with controller-based networking](6.2-controller-based-networking)
 #### 6.3 Describe controller-based, software defined architecture (overlay, underlay, and fabric)
 - [6.3.a Separation of control plane and data plane](6.3a-control-plane-data-plane)
