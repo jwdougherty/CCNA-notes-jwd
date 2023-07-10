@@ -110,6 +110,7 @@ My notes and thoughts working through the CCNA study topics
 #### [5.4 Describe security password policies elements, such as management, complexity, and password alternatives (multifactor authentication, certificates, and biometrics)](5.4-security-passwords)
 
 #### [5.5 Describe IPsec remote access and site-to-site VPNs](5.5-IPsec-remote-access-and VPN)
+
 #### [5.6 Configure and verify access control lists](5.6-ACLs)
 #### [5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection, and port security)](5.7-Layer-2-security-features)
 #### [5.8 Compare authentication, authorization, and accounting concepts](5.8-AAA)
@@ -117,7 +118,8 @@ My notes and thoughts working through the CCNA study topics
 #### [5.10 Configure and verify WLAN within the GUI using WPA2 PSK](5.10-WLAN-WPA2-PSK)
 
 
-## 6.0Automation and Programmability
+## 6.0 Automation and Programmability
+
 #### [6.1 Explain how automation impacts network management](6.1-network-management-and automation)
 #### [6.2 Compare traditional networks with controller-based networking](6.2-controller-based-networking)
 #### 6.3 Describe controller-based, software defined architecture (overlay, underlay, and fabric)
