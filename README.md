@@ -4,9 +4,9 @@ My notes and thoughts working through the CCNA study topics
 ##20%
 ## 1.0 Network Fundamentals
 ### 1.1 Explain the role and function of network components
-[1.1.a Routers](1.1a-routers)
+- [1.1.a Routers](1.1a-routers)
 
-[1.1.b Layer 2 and Layer 3 switches](1.1b-switches)
+- [1.1.b Layer 2 and Layer 3 switches](1.1b-switches)
 
 [1.1.c Next-generation firewalls and IPS](1.1c-firewalls-IPS)
 
@@ -150,7 +150,7 @@ My notes and thoughts working through the CCNA study topics
 
 [3.2.c Routing protocol metric](3.2c-routing-protocol)
 
-3.3 Configure and verify IPv4 and IPv6 static routing
+[3.3 Configure and verify IPv4 and IPv6 static routing
 3.3.a Default route
 3.3.b Network route
 3.3.c Host route
