@@ -54,7 +54,7 @@ My notes and thoughts working through the CCNA study topics
 - [2.1.b Default VLAN](2.1b-default-VLAN)
 - [2.1.c InterVLAN connectivity](2.1c-InterVLAN-connectivity)
 #### 2.2 Configure and verify interswitch connectivity
-- [2.2.a Trunk ports](2.1a-trunk-ports)
+- [2.2.a Trunk ports](2.2a-trunk-ports)
 - [2.2.b 802.1Q](2.2b-802.1q)
 - [2.2.c Native VLAN](2.2c-native-VLAN)
 #### [2.3 Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP)](2.3-layer-2-discovery)
