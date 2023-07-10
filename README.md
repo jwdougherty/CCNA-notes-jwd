@@ -97,40 +97,32 @@ My notes and thoughts working through the CCNA study topics
 #### [4.2 Configure and verify NTP operating in a client and server mode
 #### [4.3 Explain the role of DHCP and DNS within the network
 #### [4.4 Explain the function of SNMP in network operations
-
-10%
 #### [4.5 Describe the use of syslog features including facilities and levels
 #### [4.6 Configure and verify DHCP client and relay
 #### [4.7 Explain the forwarding per-hop behavior (PHB) for QoS, such as classification, marking, queuing, congestion, policing, and shaping
-Configure network devices for remote access using SSH
-Describe the capabilities and functions of TFTP/FTP in the network
-Security Fundamentals
-Define key security concepts (threats, vulnerabilities, exploits, and mitigation
-techniques)
-Describe security program elements (user awareness, training, and physical access
-control)
-Configure and verify device access control using local passwords
-Describe security password policies elements, such as management, complexity, and
-password alternatives (multifactor authentication, certificates, and biometrics)
-Describe IPsec remote access and site-to-site VPNs
-Configure and verify access control lists
-Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection,
-and port security)
-Compare authentication, authorization, and accounting concepts
-Describe wireless security protocols (WPA, WPA2, and WPA3)
-Configure and verify WLAN within the GUI using WPA2 PSK
-6.0
-6.1
-6.2
-6.3 Automation and Programmability
-Explain how automation impacts network management
-Compare traditional networks with controller-based networking
-Describe controller-based, software defined architecture (overlay, underlay, and fabric)
-6.3.a Separation of control plane and data plane
-6.3.b Northbound and Southbound APIs
-6.4 Compare traditional campus device management with Cisco DNA Center enabled device
-management
-6.5 Describe characteristics of REST-based APIs (CRUD, HTTP verbs, and data encoding)
-6.6 Recognize the capabilities of configuration management mechanisms Puppet, Chef, and
-Ansible
-6.7 Recognize components of JSON-encoded data
+#### [4.8 Configure network devices for remote access using SSH
+#### [4.9 Describe the capabilities and functions of TFTP/FTP in the network
+
+## 5.0 Security Fundamentals
+#### [5.1 Define key security concepts (threats, vulnerabilities, exploits, and mitigation techniques)
+#### [5.2 Describe security program elements (user awareness, training, and physical access control)
+#### [5.3 Configure and verify device access control using local passwords
+#### [5.4 Describe security password policies elements, such as management, complexity, and password alternatives (multifactor authentication, certificates, and biometrics)
+#### [5.5 Describe IPsec remote access and site-to-site VPNs
+#### [5.6 Configure and verify access control lists
+#### [5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection, and port security)
+#### [5.8 Compare authentication, authorization, and accounting concepts
+#### [5.9 Describe wireless security protocols (WPA, WPA2, and WPA3)
+#### [5.10 Configure and verify WLAN within the GUI using WPA2 PSK
+
+
+## 6.0Automation and Programmability
+#### [6.1 Explain how automation impacts network management
+#### [6.2 Compare traditional networks with controller-based networking
+#### Describe controller-based, software defined architecture (overlay, underlay, and fabric)
+- [6.3.a Separation of control plane and data plane](6.3a-control-plane-data-plane)
+- [6.3.b Northbound and Southbound APIs](6.3b-northbound-southbound-API)
+#### [6.4 Compare traditional campus device management with Cisco DNA Center enabled device management](6.4-campus-device-management)
+#### [6.5 Describe characteristics of REST-based APIs (CRUD, HTTP verbs, and data encoding)
+#### [6.6 Recognize the capabilities of configuration management mechanisms Puppet, Chef, and Ansible
+#### [6.7 Recognize components of JSON-encoded data](6.7-JSON)
