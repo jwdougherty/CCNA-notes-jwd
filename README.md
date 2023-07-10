@@ -84,7 +84,7 @@ My notes and thoughts working through the CCNA study topics
 - [3.2.b Administrative distance](3.2b-administrative-distance)
 - [3.2.c Routing protocol metric](3.2c-routing-protocol)
 #### 3.3 Configure and verify IPv4 and IPv6 static routing
-- [3.3.a Default route](3.3a-IP-default route)
+- [3.3.a Default route](3.3a-IP-default-route)
 - [3.3.b Network route](3.3b-network-route)
 - [3.3.c Host route](3.3c-host-route)
 - [3.3.d Floating static](3.3d-floating-static)
