@@ -3,7 +3,7 @@ My notes and thoughts working through the CCNA study topics
 
 ##20%
 ## 1.0 Network Fundamentals
-### 1.1 Explain the role and function of network components
+1.1 Explain the role and function of network components
 - [1.1.a Routers](1.1a-routers)
 
 - [1.1.b Layer 2 and Layer 3 switches](1.1b-switches)
