@@ -1,58 +1,16 @@
-An Overview of LANs
-The term Ethernet refers to a family of LAN standards that together define the physical and data-link layers of the world’s most popular wired LAN technology. The standards, defined by the Institute of Electrical and Electronics Engineers (IEEE), define the cabling,
- 
-||||||||||||||||||||
-Technet24
-||||||||||||||||||||
-the connectors on the ends of the cables, the protocol rules, and everything else required to create an Ethernet LAN.
+# An Overview of LANs
+The term Ethernet refers to a family of LAN standards that together define the physical and data-link layers of the world’s most popular wired LAN technology. The standards, defined by the Institute of Electrical and Electronics Engineers (IEEE), define the cabling, the connectors on the ends of the cables, the protocol rules, and everything else required to create an Ethernet LAN.
 Typical SOHO LANs
 To begin, first think about a small office/home office (SOHO) LAN today, specifically a LAN that uses only Ethernet LAN technology. First, the LAN needs a device called an Ethernet LAN switch, which provides many physical ports into which cables can be con- nected. An Ethernet uses Ethernet cables, which is a general reference to any cable that conforms to any of several Ethernet standards. The LAN uses Ethernet cables to connect dif- ferent Ethernet devices or nodes to one of the switch’s Ethernet ports.
 Figure 2-1 shows a drawing of a SOHO Ethernet LAN. The figure shows a single LAN switch, five cables, and five other Ethernet nodes: three PCs, a printer, and one network device called a router. (The router connects the LAN to the WAN, in this case to the Internet.)
-2
-Chapter 2: Fundamentals of Ethernet LANs    35
- To Internet
-Router
-    F0/1
-F0/3
-                           F0/2
-F0/4
-    ||||||||||||||||||||
-Figure 2-1
-Typical Small Ethernet-Only SOHO LAN
-Switch
+
 Although Figure 2-1 shows the switch and router as separate devices, many SOHO Ethernet LANs today combine the router and switch into a single device. Vendors sell consumer-grade integrated networking devices that work as a router and Ethernet switch, as well as doing other functions. These devices typically have “router” on the packaging, but many models also have four-port or eight-port Ethernet LAN switch ports built in to the device.
 Typical SOHO LANs today also support wireless LAN connections. You can build a single SOHO LAN that includes both Ethernet LAN technology as well as wireless LAN technol- ogy, which is also defined by the IEEE. Wireless LANs, defined by the IEEE using standards that begin with 802.11, use radio waves to send the bits from one node to the next.
 Most wireless LANs rely on yet another networking device: a wireless LAN access point (AP). The AP acts somewhat like an Ethernet switch, in that all the wireless LAN nodes com- municate with the wireless AP. If the network uses an AP that is a separate physical device, the AP then needs a single Ethernet link to connect the AP to the Ethernet LAN, as shown in Figure 2-2.
 Note that Figure 2-2 shows the router, Ethernet switch, and wireless LAN access point as three separate devices so that you can better understand the different roles. However, most SOHO networks today would use a single device, often labeled as a “wireless router,” that does all these functions.
 
-||||||||||||||||||||
-36    CCNA 200-301 Official Cert Guide, Volume 1
-To Internet
-Router
-F0/1 F0/2
-Tablets
-                     Typical Small Wired and Wireless SOHO LAN
-Figure 2-2
 Typical Enterprise LANs
 Enterprise networks have similar needs compared to a SOHO network, but on a much larger scale. For example, enterprise Ethernet LANs begin with LAN switches installed in a wiring closet behind a locked door on each floor of a building. The electricians install the Ethernet cabling from that wiring closet to cubicles and conference rooms where devices might need to connect to the LAN. At the same time, most enterprises also support wireless LANs in the same space, to allow people to roam around and still work and to support a growing number of devices that do not have an Ethernet LAN interface.
 Figure 2-3 shows a conceptual view of a typical enterprise LAN in a three-story building. Each floor has an Ethernet LAN switch and a wireless LAN AP. To allow communication between floors, each per-floor switch connects to one centralized distribution switch. For example, PC3 can send data to PC2, but it would first flow through switch SW3 to the first floor to the dis- tribution switch (SWD) and then back up through switch SW2 on the second floor.
-Building3rd Floor 2nd Floor
-1st Floor
-To Rest of Enterprise Network
-                                          Figure 2-3
-SW3
-SW2
-SW1 SWD
-Single-Building Enterprise Wired and Wireless LAN
- ||||||||||||||||||||
-Answers to the “Do I Know This Already?” quiz:
-1 A 2 C 3 B 4 B, D, and E 5 B 6 B 7 C 8 B, C, and E 9 C and D
-        Access Point
- Switch
-  PC3
-       PC2
-       PC1
-          Technet24
 
-||||||||||||||||||||
 The figure also shows the typical way to connect a LAN to a WAN using a router. LAN switches and wireless access points work to create the LAN itself. Routers connect to both the LAN and the WAN. To connect to the LAN, the router simply uses an Ethernet LAN interface and an Ethernet cable, as shown on the lower right of Figure 2-3.
