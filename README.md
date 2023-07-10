@@ -108,6 +108,7 @@ My notes and thoughts working through the CCNA study topics
 #### [5.2 Describe security program elements (user awareness, training, and physical access control)](5.2-security-program-elements)
 #### [5.3 Configure and verify device access control using local passwords](5.3-device-access-control)
 #### [5.4 Describe security password policies elements, such as management, complexity, and password alternatives (multifactor authentication, certificates, and biometrics)](5.4-security-passwords)
+
 #### [5.5 Describe IPsec remote access and site-to-site VPNs](5.5-IPsec-remote-access-and VPN)
 #### [5.6 Configure and verify access control lists](5.6-ACLs)
 #### [5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection, and port security)](5.7-Layer-2-security-features)
@@ -119,7 +120,7 @@ My notes and thoughts working through the CCNA study topics
 ## 6.0Automation and Programmability
 #### [6.1 Explain how automation impacts network management](6.1-network-management-and automation)
 #### [6.2 Compare traditional networks with controller-based networking](6.2-controller-based-networking)
-#### Describe controller-based, software defined architecture (overlay, underlay, and fabric)
+#### 6.3 Describe controller-based, software defined architecture (overlay, underlay, and fabric)
 - [6.3.a Separation of control plane and data plane](6.3a-control-plane-data-plane)
 - [6.3.b Northbound and Southbound APIs](6.3b-northbound-southbound-API)
 #### [6.4 Compare traditional campus device management with Cisco DNA Center enabled device management](6.4-campus-device-management)
