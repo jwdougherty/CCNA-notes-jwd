@@ -18,7 +18,7 @@ My notes and thoughts working through the CCNA study topics
 - [1.2.b Three-tier](1.2b-three-tier-topology)
 - [1.2.c Spine-leaf](1.2c-spine-leaf-topology)
 - [1.2.d WAN](1.2d-WAN)
-- [1.2.e Small office/home office (SOHO)](1.1e-SOHO-topology)
+- [1.2.e Small office/home office (SOHO)](1.2e-SOHO-topology)
 - [1.2.f On-premise and cloud](1.2f-on-premise-and-cloud-topology)
 #### 1.3 Compare physical interface and cabling types
 - [1.3.a Single-mode fiber](1.3a-single-mode-fiber), [multimode fiber](1.3a-multimode-fiber), [copper](1.3a-copper)
