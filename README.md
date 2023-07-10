@@ -1,8 +1,7 @@
 # CCNA-notes-jwd
 My notes and thoughts working through the CCNA study topics
 
-##20%
-## 1.0 Network Fundamentals
+## 1.0 Network Fundamentals -- 20%
 #### 1.1 Explain the role and function of network components
 - [1.1.a Routers](1.1a-routers)
 - [1.1.b Layer 2 and Layer 3 switches](1.1b-switches)
@@ -47,7 +46,6 @@ My notes and thoughts working through the CCNA study topics
 
 
 ## 2.0 Network Access
-
 #### 2.1 Configure and verify VLANs (normal range) spanning multiple switches
 - [2.1.a Access ports (data and voice)](2.1a-access-ports)
 - [2.1.b Default VLAN](2.1b-default-VLAN)
@@ -70,73 +68,40 @@ My notes and thoughts working through the CCNA study topics
 
 ## 3.0 IP Connectivity 
 ### 3.1 Interpret the components of routing table
-
 - [3.1.a Routing protocol code](3.1a-routing-protocol-code)
-
 - [3.1.b Prefix](3.1b-prefix)
-
 - [3.1.c Network mask](3.1c-network-mask)
-
 - [3.1.d Next hop](3.1d-next-hop)
-
 - [3.1.e Administrative distance](3.1e-administrative-distance)
-
 - [3.1.f Metric](3.1f-metric)
-
 - [3.1.g Gateway of last resort](3.1g-gateway-of-last-resort)
-
 #### 3.2 Determine how a router makes a forwarding decision by default
-
 - [3.2.a Longest prefix match](3.2a-longest-prefix-match)
-
 - [3.2.b Administrative distance](3.2b-administrative-distance)
-
 - [3.2.c Routing protocol metric](3.2c-routing-protocol)
-
 #### 3.3 Configure and verify IPv4 and IPv6 static routing
 - {3.3.a Default route](3.3a-IP-default route)
 - [3.3.b Network route](3.3b-network-route)
 - [3.3.c Host route](3.3c-host-route)
 - [3.3.d Floating static](3.3d-floating-static)
-
 #### 3.4 Configure and verify single area OSPFv2
-3.4.a Neighbor adjacencies
-3.4.b Point-to-point
-3.4.c Broadcast (DR/BDR selection)
-3.4.d Router ID
-3.5 Describe the purpose, functions, and concepts of first hop redundancy protocols
-4.0
-4.1
-4.2
-4.3
-4.4 IP Services
-Configure and verify inside source NAT using static and pools
-Configure and verify NTP operating in a client and server mode
-Explain the role of DHCP and DNS within the network
-Explain the function of SNMP in network operations
-2021 Cisco Systems, Inc. This document is Cisco Public.
-Page 34.5
-4.6
-4.7
-4.8
-4.9
-15%
-5.0
-5.1
-5.2
-5.3
-5.4
-5.5
-5.6
-5.7
-5.8
-5.9
-5.10
+- [3.4.a Neighbor adjacencies](3.4a-neighbor-adjacency)
+- [3.4.b Point-to-point](3.4b-point-to-point)
+- [3.4.c Broadcast (DR/BDR selection)](3.4c-broadcast)
+- [3.4.d Router ID](3.4d-router-id)
+#### [3.5 Describe the purpose, functions, and concepts of first hop redundancy protocols](3.5-first-hop-reduncancy)
+
+
+## 4.0 IP Services
+#### [4.1 Configure and verify inside source NAT using static and pools
+#### [4.2 Configure and verify NTP operating in a client and server mode
+#### [4.3 Explain the role of DHCP and DNS within the network
+#### [4.4 Explain the function of SNMP in network operations
+
 10%
-Describe the use of syslog features including facilities and levels
-Configure and verify DHCP client and relay
-Explain the forwarding per-hop behavior (PHB) for QoS, such as classification, marking,
-queuing, congestion, policing, and shaping
+#### [4.5 Describe the use of syslog features including facilities and levels
+#### [4.6 Configure and verify DHCP client and relay
+#### [4.7 Explain the forwarding per-hop behavior (PHB) for QoS, such as classification, marking, queuing, congestion, policing, and shaping
 Configure network devices for remote access using SSH
 Describe the capabilities and functions of TFTP/FTP in the network
 Security Fundamentals
