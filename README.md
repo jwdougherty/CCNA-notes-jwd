@@ -36,9 +36,9 @@ My notes and thoughts working through the CCNA study topics
 
 ### 1.3 Compare physical interface and cabling types
 
-[1.3.a Single-mode fiber](1.3a-single-mode-fiber), [multimode fiber](1.3a-multimode-fiber), [copper](1.3a-copper)
+- [1.3.a Single-mode fiber](1.3a-single-mode-fiber), [multimode fiber](1.3a-multimode-fiber), [copper](1.3a-copper)
 
-[1.3.b Connections (Ethernet shared media and point-to-point)](1.3b-connections)
+- [1.3.b Connections (Ethernet shared media and point-to-point)](1.3b-connections)
 
 ### [1.4 Identify interface and cable issues (collisions, errors, mismatch duplex, and/or speed)](1.4-interface-troubleshooting)
 
@@ -52,7 +52,7 @@ My notes and thoughts working through the CCNA study topics
 
 ### 1.9 Describe IPv6 address types
 
-[1.9.a Unicast (global, unique local, and link local)](1.9a-unicast)
+- [1.9.a Unicast (global, unique local, and link local)](1.9a-unicast)
 
 [1.9.b Anycast](1.9b-anycast)
 
