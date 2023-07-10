@@ -20,7 +20,7 @@ My notes and thoughts working through the CCNA study topics
 
 - [1.1.h PoE](1.1h-PoE)
 
-### 1.2 Describe characteristics of network topology architectures
+#### 1.2 Describe characteristics of network topology architectures
 
 - [1.2.a Two-tier](1.2a-two-tier-topology)
 
