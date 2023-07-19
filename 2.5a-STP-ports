@@ -1,1 +1,8 @@
 
+# [Port priority vs Cost](https://community.cisco.com/t5/switching/stp-port-priority-vs-cost/m-p/1274613#M110543)
+
+Both parameters are used to determine which interface will be in forwarding state.
+They have differences though:
+If you want to affect how to the local switch elects the root port change the cost on the links. Cost is cumulative throughout the STP domain. The higher cost is the less preferred.
+If you want to affect how downstream switch elects its root port change the priority. This is only local significant between the two directly connected switches. Highest priority is less preferred.
+Going away from the root of the tree use priority whereas, when going towards the root of the tree use cost.
