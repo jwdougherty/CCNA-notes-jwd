@@ -13,7 +13,7 @@ My notes and thoughts working through the CCNA study topics
 - [1.1.f Endpoints](1.1f-endpoints)
 - [1.1.g Servers](1.1g-servers)
 - [1.1.h PoE](1.1h-PoE)
-#### 1.2 Describe characteristics of network topology architectures
+#### [1.2 Describe characteristics of network topology architectures](1.2-network-topology.md)
 - [1.2.a Two-tier](1.2a-two-tier-topology)
 - [1.2.b Three-tier](1.2b-three-tier-topology)
 - [1.2.c Spine-leaf](1.2c-spine-leaf-topology)
